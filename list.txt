@@ -1,1 +1,5 @@
 /afs/.ir/users/a/m/amcbean/git
+F1
+autodo.sh
+list.txt
+text.txt
