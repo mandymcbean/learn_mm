@@ -1,3 +1,4 @@
 this is a ne file
 another line
 ls -a>> list.txt
+echo "DONE" >> list.txt
